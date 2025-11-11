@@ -8,7 +8,7 @@ This repository contains the design, simulation, and analysis of a niobium-based
 **Internship Duration:** 07/05/2025 to 14/07/2025  
 **Intern:** Nirupam Mondal  
 **Guide:** Mr. Javed Akhter  
-**Institution:** Indian Institute of Technology (ISM) Dhanbad — Mechanical Engineering (Mining Machinery)
+**Institution:** Indian Institute of Technology (ISM) Dhanbad — Mechanical Engineering
 
 ## Objective
 To design and simulate a high-pressure, high-yield liquid target for efficient production of ¹⁸F isotopes via proton irradiation of ¹⁸O-enriched water, with a focus on thermal management and structural integrity.
